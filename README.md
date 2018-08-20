@@ -4,5 +4,5 @@ JS2N 的个人博客
 > MYSQL
 > JSP
 > ...
-* [wiki第一篇](https://github.com/js2thon/github.wiki.git)
-[test01](github/test01)
+
+[test01](test01)
