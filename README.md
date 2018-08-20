@@ -5,4 +5,4 @@ JS2N 的个人博客
 > JSP
 > ...
 
-* [test01](test01)
+* [java学习01](java学习01)
