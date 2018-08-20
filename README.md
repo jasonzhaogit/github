@@ -5,3 +5,4 @@ JS2N 的个人博客
 > JSP
 > ...
 * [wiki第一篇](https://github.com/js2thon/github.wiki.git)
+[test01](github/test01)
