@@ -5,4 +5,8 @@ JS2N 的个人博客
 > JSP
 > ...
 
-* [java学习01](java学习01)
+* [java学习系列](java学习)
+* [jsp学习系列](jsp学习)
+* [mysql学习系列](mysql学习)
+* ...
+
