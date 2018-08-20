@@ -1,4 +1,4 @@
-# https://js2thon.github.io/github/
+# js2thon.github.io
 JS2N 的个人博客
 > JAVA
 > MYSQL
