@@ -27,8 +27,7 @@ tomcat运行依赖jdk环境；
 
 三种开发servlet方法：  
 > 方法1： implements Servlet  
-    public class hello implements Servlet {
-
+      public class hello implements Servlet {
       @Override
       public void destroy() {
         // TODO Auto-generated method stub
