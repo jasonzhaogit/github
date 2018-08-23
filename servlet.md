@@ -1,15 +1,16 @@
 ## servlet 01
 * LAMP: Linux+Apache+MySQL+PHP 
-> servlet是java服务器小程序，是用java编写的服务器程序，它的特点：    
+servlet是java服务器小程序，是用java编写的服务器程序，它的特点：    
 1.由服务器端调用和执行的；  
 2.用java语言编写；  
 3.是按照servlet规范开发  
+```
     浏览器-web容器-数据库   
-       |	|     |	  		
+       |    |     |	  		
      chrome |     |   
           tomcat  |  
                 mysql  	
-
+```
 tomcat是一个免费开源的servlet容器、web服务器、jsp容器；  
 tomact安装，配置环境变量；  	
 tomcat运行依赖jdk环境；
