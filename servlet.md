@@ -1,6 +1,6 @@
 ## servlet 01
 * LAMP: Linux+Apache+MySQL+PHP   
->servlet是java服务器小程序，是用java编写的服务器程序，它的特点：    
+servlet是java服务器小程序，是用java编写的服务器程序，它的特点：    
 1.由服务器端调用和执行的；  
 2.用java语言编写；  
 3.是按照servlet规范开发  
@@ -27,13 +27,13 @@ tomcat运行依赖jdk环境；
 
 三种开发servlet方法：  
 > 方法1： implements Servlet  
+
       public class hello implements Servlet {
       @Override
       public void destroy() {
         // TODO Auto-generated method stub
-
       }
-
+      
       @Override
       public ServletConfig getServletConfig() {
         // TODO Auto-generated method stub
@@ -47,15 +47,12 @@ tomcat运行依赖jdk环境；
       @Override
       public void init(ServletConfig arg0) throws ServletException {
         System.out.println("hello init");
-
       }
-
       @Override
       public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
         System.out.println("service it");
         PrintWriter pw = res.getWriter();
         pw.println("hello servlet");
-
       }
 
 > 方法2： extends GenericServlet    
